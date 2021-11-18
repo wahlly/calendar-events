@@ -1,0 +1,27 @@
+{
+  "name": "calendar-events",
+  "version": "1.0.0",
+  "description": "meeting events",
+  "main": "index.js",
+  "scripts": {
+    "test": "meeting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahlly/calendar-events.git"
+  },
+  "keywords": [
+    "meeting"
+  ],
+  "author": "wahllyWest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahlly/calendar-events/issues"
+  },
+  "homepage": "https://github.com/wahlly/calendar-events#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "googleapis": "^91.0.0"
+  }
+}
